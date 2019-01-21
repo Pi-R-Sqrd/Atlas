@@ -1,0 +1,10 @@
+C:\Users\CBurbers\source\repos\Atlas\Atlas\bin\Debug\Atlas.exe.config
+C:\Users\CBurbers\source\repos\Atlas\Atlas\bin\Debug\Atlas.exe
+C:\Users\CBurbers\source\repos\Atlas\Atlas\bin\Debug\Atlas.pdb
+C:\Users\CBurbers\source\repos\Atlas\Atlas\obj\Debug\Atlas.csprojAssemblyReference.cache
+C:\Users\CBurbers\source\repos\Atlas\Atlas\obj\Debug\Atlas.FormMain.resources
+C:\Users\CBurbers\source\repos\Atlas\Atlas\obj\Debug\Atlas.Properties.Resources.resources
+C:\Users\CBurbers\source\repos\Atlas\Atlas\obj\Debug\Atlas.csproj.GenerateResource.cache
+C:\Users\CBurbers\source\repos\Atlas\Atlas\obj\Debug\Atlas.csproj.CoreCompileInputs.cache
+C:\Users\CBurbers\source\repos\Atlas\Atlas\obj\Debug\Atlas.exe
+C:\Users\CBurbers\source\repos\Atlas\Atlas\obj\Debug\Atlas.pdb
